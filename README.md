@@ -1,5 +1,5 @@
 ## About
-Ph.D. student researching computational cognitive science @ UIUC! 
+Ph.D. student researching computational cognitive science @ UIUC! Currently migrating most projects to here, but all repos have a description explaining each project :).
 ## Focuses
 * "Big data" approaches to understanding human and machine learning and behavior
 * Computational and quantitative models of semantic and reasoning development 
