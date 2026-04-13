@@ -13,7 +13,7 @@ M.S. student researching computational cognitive science @ UIUC! Currently migra
 * **Simsum**: Logistic mixed-effects and growth network modeling of toddlers’ word-learning outcomes using NLP-derived linguistic features from naturalistic speech
 * **Hands**: Analyzing and visualizing infant eye-tracking data using t-tests and linear mixed models to determine how bilingual vs. monolingual babies learn word scope
 * **Travel_DB**: Designing and implementing conceptual (EER), relational (SQL), and graph-based (Neo4j) models as databases for employee travel reimbursement - for my information modeling course
-* **tSFP_II**: Building MDP models to determing winning decisions in the Sims Freeplay's "Influence Island" minigame
+* **tSFP_II**: Building MDP models to determine winning decisions in the Sims Freeplay's "Influence Island" minigame
   
 ## Past Projects
 * **BiMorph**
