@@ -1,5 +1,5 @@
 ## About
-M.S. student researching computational cognitive science @ UIUC! Currently migrating most projects to here and adding descriptions below, but most repos have READMEs explaining each project :). 
+Grad student researching computational cognitive science @ UIUC! Currently migrating most projects to here and adding descriptions below, but most repos have READMEs explaining each project :). 
 
 ## Focuses
 * "Big data" approaches to understanding human and machine learning and behavior
